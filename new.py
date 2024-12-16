@@ -1,7 +1,10 @@
-def hello():
-      print("hello world")
+ def hello():
++    print("hello world")
 
-def thank():
- print("thank you")
+ 
+ def thank():
 
-print(thank())
++    print("thank you")
+
+ 
+ print(thank())
