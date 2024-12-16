@@ -1,10 +1,11 @@
- def hello():
+def hello():
     print("hello world")
 
- 
- def thank():
 
+def thank():
     print("thank you")
 
- 
- print(thank())
+
+# Call the functions
+hello()
+thank()
